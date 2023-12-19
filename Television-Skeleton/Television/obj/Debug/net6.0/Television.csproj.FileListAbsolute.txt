@@ -1,0 +1,14 @@
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\bin\Debug\net6.0\Television.exe
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\bin\Debug\net6.0\Television.deps.json
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\bin\Debug\net6.0\Television.dll
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\bin\Debug\net6.0\Television.pdb
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\Television.dll
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\refint\Television.dll
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\Television.pdb
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+C:\Users\Marinov\Desktop\C# OOP Retake 19 Dec 2023\Television-Skeleton\Television\obj\Debug\net6.0\ref\Television.dll
